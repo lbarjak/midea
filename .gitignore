@@ -1,4 +1,4 @@
 midea.json
-.venv
-.git
+.venv/
+.git/
 activate
